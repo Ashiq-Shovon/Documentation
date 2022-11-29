@@ -1,0 +1,449 @@
+a:3:{s:4:"time";i:1629105179;s:3:"ttl";i:604800;s:4:"data";s:29729:"<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <title>Creativeitem - Documentation - We provide smart solutions for your business.</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="Creativeitem">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+    
+            <meta name="description" content="Academy lms meta description">
+        
+  
+    
+
+    
+
+<meta property="og:locale"             content="en_US" />
+<meta property="og:type"               content="website" />
+<meta property="og:url"                content="https://www.creativeitem.com/docs" />
+<meta property="og:title"              content="Creativeitem - Documentation" />
+<meta property="og:description"        content="Creativeitem - Documentation" />
+<meta property="og:image"              content="https://www.creativeitem.com/assets/images/logo_ci.png" />    
+    <!-- favicon icon -->
+    <link rel="shortcut icon" href="https://www.creativeitem.com/assets/pages/common/favicon.png">
+    <link rel="apple-touch-icon" href="https://www.creativeitem.com/assets/pages/common/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.creativeitem.com/assets/pages/common/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.creativeitem.com/assets/pages/common/apple-touch-icon-114x114.png">
+    <!-- style sheets and font icons  -->
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/font-icons.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/theme-vendors.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/style.css" />
+     <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/responsive.css" /> 
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/toastr.css">
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/sticky-buy-area.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/file-upload-preview.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.creativeitem.com/assets/frontend/css/custom.css" />
+    
+
+    <!-- JQUERY -->
+    <script type="text/javascript" src="https://www.creativeitem.com/assets/frontend/js/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.creativeitem.com/assets/frontend/js/jquery.cookie.js"></script>
+</head>
+
+<body data-mobile-nav-style=" classic">
+    <!-- start header -->
+    <header>
+        
+
+<!-- start navigation -->
+<nav class="navbar navbar-expand-lg navbar-light bg-transparent header-light fixed-top header-reverse-scroll">
+    <div class="container-lg nav-header-container">
+        <div class="col-auto col-sm-6 col-lg-2 mr-auto pl-lg-0">
+            <a class="navbar-brand" href="https://www.creativeitem.com/">
+                <img src="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big.png" data-at2x="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big@2x.png" class="default-logo" alt="">
+                <img src="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big.png" data-at2x="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big@2x.png" class="alt-logo" alt="">
+                <img src="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big.png" data-at2x="https://www.creativeitem.com/assets/pages/common/logo-fast-blue-black-big@2x.png" class="mobile-logo" alt="">
+            </a>
+        </div>
+        <div class="col-auto col-lg-8 menu-order px-lg-0">
+            <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                <span class="navbar-toggler-line"></span>
+                <span class="navbar-toggler-line"></span>
+                <span class="navbar-toggler-line"></span>
+                <span class="navbar-toggler-line"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav alt-font">
+                <li class="nav-item dropdown megamenu">
+                        <a href="javascript:void(0);" class="nav-link">Products</a>
+                        <i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                        <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
+                            <div class="d-lg-flex justify-content-center">
+                                <ul class="d-lg-inline-block">
+                                    <li class="head-text dropdown-header text-uppercase">Interactive</li>
+                                    <li class="">
+                                        <style type="text/css">
+                                            .show-menu-hover{
+                                                display: none;
+                                            }
+                                            .hover-menue:hover .show-menu-hover {
+                                                display: inline-block;
+                                                margin-left: 3px;
+                                                font-size: 10px;
+                                                transition: .1s;
+                                            }
+                                            .menu-title-head{
+                                                font-weight: 600 !important;
+                                                color: #020202;
+                                            }
+
+                                            .menu-ptext{
+                                                opacity: .8 !important;
+                                            }
+                                            .hover-menue:hover .menu-ptext{
+                                                color: #343434;
+                                                opacity: 1 !important;
+                                                transition: .1s;
+                                            }
+                                        </style>
+                                        <a class="bodytext hover-menue" href="https://www.creativeitem.com/academy">
+                                            <img class="imgtext" src="https://www.creativeitem.com/assets/pages/academy/menu-logo-academy.png" alt="">
+                                            <span class="titeltext margin-1-rem-left">
+                                                <span class="text-medium-slate-blue menu-title-head">Academy-LMS <i class="show-menu-hover fas fa-arrow-right"></i>
+                                                </span>
+                                                <p class="menu-ptext">Learning management system</p>
+                                            </span>
+
+                                        </a>
+
+                                    </li>
+                                    <li class="">
+                                        <a class="bodytext hover-menue" href="https://www.creativeitem.com/ekattor">
+                                            <img class="imgtext" src="https://www.creativeitem.com/assets/pages/ekattor/ekattor-logo-menu.png" alt="">
+                                            <span class="margin-1-rem-left">
+                                                <span class="text-medium-slate-blue menu-title-head">Ekattor School-ERP <i class="show-menu-hover fas fa-arrow-right"></i>
+                                                </span>
+                                                <p class="menu-ptext">School management system</p>
+                                            </span>
+
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a class="bodytext hover-menue" href="https://www.creativeitem.com/mastery">
+                                            <img class="imgtext" src="https://www.creativeitem.com/assets/pages/mastery/menu-logo-academy.png" alt="">
+                                            <span class="margin-1-rem-left">
+                                                <span class="text-medium-slate-blue menu-title-head">Mastery subscription-LMS <i class="show-menu-hover fas fa-arrow-right"></i>
+                                                </span>
+                                                <p class="menu-ptext">Learning management system</p>
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <!---<ul class="d-lg-inline-block">
+                                                <li class="dropdown-header">WordPress</li>
+                                                <li><a href="progress-bar.html"><i class="icon-hourglass"></i>Progress bar</a></li>
+                                            </ul>--->
+                                <ul class="d-lg-inline-block">
+                                    <li class="head-text dropdown-header text-uppercase">WordPress Plugins</li>
+                                    <li class="">
+                                        <a class="bodytext hover-menue" href="https://www.creativeitem.com/mitxen">
+                                            <img class="imgtext" src="https://www.creativeitem.com/assets/pages/mitxen/mitxen-logo-menu.png" alt="">
+                                            <span class="margin-1-rem-left">
+                                                <span class="text-medium-slate-blue menu-title-head">Mitxen-LMS <i class="show-menu-hover fas fa-arrow-right"></i>
+                                                </span>
+                                                <p class="menu-ptext">Learning management system</p>
+                                            </span>
+
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- <li class="nav-item">
+                        <a href="https://www.creativeitem.com/about" class="nav-link">About</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a href="https://www.creativeitem.com/blog" class="nav-link">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://www.creativeitem.com/docs" class="nav-link">Docs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://support.creativeitem.com" target="_blank" class="nav-link">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- <div class="col-auto text-right hidden-xs pr-0 font-size-0">
+            <div class="header-search-icon search-form-wrapper">
+                <a href="javascript:void(0)" class="search-form-icon header-search-form"><i class="feather icon-feather-search"></i></a>
+
+                <div class="form-wrapper">
+                    <button title="Close" type="button" class="search-close alt-font">×</button>
+                    <form id="search-form" role="search" method="get" class="search-form text-left" action="search-result.html">
+                        <div class="search-form-box">
+                            <span class="search-label alt-font text-small text-uppercase text-medium-gray">What are you looking for?</span>
+                            <input class="search-input alt-font" id="search-form-input5e219ef164995" placeholder="Enter your product name..." name="s" value="" type="text" autocomplete="off">
+                            <button type="submit" class="search-button">
+                                <i class="feather icon-feather-search" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div> -->
+
+                    <div class="header-language dropdown d-lg-inline-block">
+                <a href="https://www.creativeitem.com/login"><i class="feather icon-feather-lock"></i></a>
+            </div>
+            </div>
+</nav>    </header>
+    <!-- end header -->
+<section class="bg-light-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-4 col-lg-5 col-md-7 col-sm-9 text-center last-paragraph-no-margin">
+                <h4 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px margin-20px-bottom sm-margin-10px-bottom">Documentations</h4>
+                <p>Find the desired documentation you are looking for from the list below.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- start section -->
+<section class="bg-light-blue">
+    <div class="container">
+                    <div class="row margin-5-rem-bottom">
+                <h6 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px margin-2-rem-bottom margin-2-rem-left">Web Application</h6>
+                <div class="col-12 filter-content">
+                    <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                        <li class="grid-sizer"></li>
+                        <!-- start portfolio item -->
+                                                    <li class="grid-item wow animate__fadeIn">
+                                <div class="portfolio-box border-radius-6px box-shadow-large">
+                                    <div class="portfolio-image">
+                                        <a href="https://www.creativeitem.com/docs/academy-lms"><img src="https://www.creativeitem.com/uploads/thumbnails/products/84f5a5fef55581580064ae45bde1a78b.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
+                                        <a href="https://www.creativeitem.com/docs/academy-lms"><span class="alt-font text-extra-dark-gray font-weight-500">Academy LMS</span></a>
+                                        <span class="text-medium d-block margin-one-bottom">Learning Management System</span>
+                                    </div>
+                                </div>
+                            </li>
+                                                    <li class="grid-item wow animate__fadeIn">
+                                <div class="portfolio-box border-radius-6px box-shadow-large">
+                                    <div class="portfolio-image">
+                                        <a href="https://www.creativeitem.com/docs/ekattor-erp"><img src="https://www.creativeitem.com/uploads/thumbnails/products/fac13af77e570c3ad476541c2d681ed7.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
+                                        <a href="https://www.creativeitem.com/docs/ekattor-erp"><span class="alt-font text-extra-dark-gray font-weight-500">Ekattor ERP</span></a>
+                                        <span class="text-medium d-block margin-one-bottom">School Management System</span>
+                                    </div>
+                                </div>
+                            </li>
+                                                    <li class="grid-item wow animate__fadeIn">
+                                <div class="portfolio-box border-radius-6px box-shadow-large">
+                                    <div class="portfolio-image">
+                                        <a href="https://www.creativeitem.com/docs/mastery"><img src="https://www.creativeitem.com/uploads/thumbnails/products/6bf73e38835a9d89facd5b4e081bca28.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
+                                        <a href="https://www.creativeitem.com/docs/mastery"><span class="alt-font text-extra-dark-gray font-weight-500">Mastery</span></a>
+                                        <span class="text-medium d-block margin-one-bottom">Subscription Based LMS</span>
+                                    </div>
+                                </div>
+                            </li>
+                                                <!-- end portfolio item -->
+                    </ul>
+                </div>
+            </div>
+                    <div class="row margin-5-rem-bottom">
+                <h6 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px margin-2-rem-bottom margin-2-rem-left">WordPress Plugin</h6>
+                <div class="col-12 filter-content">
+                    <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                        <li class="grid-sizer"></li>
+                        <!-- start portfolio item -->
+                                                    <li class="grid-item wow animate__fadeIn">
+                                <div class="portfolio-box border-radius-6px box-shadow-large">
+                                    <div class="portfolio-image">
+                                        <a href="https://www.creativeitem.com/docs/mitxen-lms"><img src="https://www.creativeitem.com/uploads/thumbnails/products/668a1e807ec71068adaa8731bdca232b.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
+                                        <a href="https://www.creativeitem.com/docs/mitxen-lms"><span class="alt-font text-extra-dark-gray font-weight-500">Mitxen LMS</span></a>
+                                        <span class="text-medium d-block margin-one-bottom">Learning Management System</span>
+                                    </div>
+                                </div>
+                            </li>
+                                                <!-- end portfolio item -->
+                    </ul>
+                </div>
+            </div>
+            </div>
+</section>
+<!-- end section --><script type="text/javascript">
+    function showLargeModal(url, header) {
+        // SHOWING AJAX PRELOADER IMAGE
+        jQuery('#large-modal .modal-body').html('loading...');
+        jQuery('#large-modal .modal-title').html();
+        // LOADING THE AJAX MODAL
+        jQuery('#large-modal').modal('show', {
+            backdrop: 'true'
+        });
+
+        // SHOW AJAX RESPONSE ON REQUEST SUCCESS
+        $.ajax({
+            url: url,
+            success: function(response) {
+                jQuery('#large-modal .modal-body').html(response);
+                jQuery('#large-modal .modal-title').html(header);
+            }
+        });
+    }
+</script>
+
+<!-- (Large Modal)-->
+<div class="modal fade" id="large-modal" tabindex="-1" role="dialog" aria-labelledby="large-modal-area" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="large-modal-area"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+        </div>
+    </div>
+</div><!-- start section -->
+<!-- <section class="overflow-visible position-relative pt-0 pb-md-0">
+    <div class="container">
+        <div class="z-index-6 btn-gradient-fast-blue-purple border-radius-6px padding-55px-tb overlap-section-bottom md-padding-40px-all xs-padding-20px-lr">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-12 col-lg-5 md-margin-25px-bottom">
+                    <h5 class="alt-font font-weight-300 text-white w-90 mb-0 lg-w-100"><span class="font-weight-600">Join our newsletter</span> and get 15% sale discount</h5>
+                </div>
+                <div class="col-12 col-lg-5">
+                    <form action="email-templates/subscribe-newsletter.php" method="post">
+                        <div class="newsletter-email position-relative d-inline-block w-90 lg-w-100">
+                            <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large m-0 required" name="email" placeholder="Enter your email address" type="email">
+                            <input type="hidden" name="redirect" value="">
+                            <button class="btn border-transperent submit" type="submit"><i class="far fa-envelope icon-extra-small text-fast-blue"></i></button>
+                            <div class="form-results border-radius-5px position-absolute d-none"></div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+<!-- end section -->
+<!-- start footer -->
+
+<footer class="footer-dark bg-slate-blue bg-extra-dark-gray position-relative overlap-gap-section-bottom sm-padding-50px-top padding-5-half-rem-top ">
+    <div class="footer-top padding-five-bottom">
+        <div class="container">
+            <div class="row">
+                <!-- start footer column -->
+                <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-1 order-lg-0 md-margin-50px-bottom xs-margin-25px-bottom">
+                    <a href="https://www.creativeitem.com/" class="footer-logo margin-20px-bottom d-block"><img src="https://www.creativeitem.com/assets/pages/common/logo-footer.png" data-at2x="https://www.creativeitem.com/assets/pages/common/logo-footer.png" alt="" width="190" height="150"></a>
+                    <p class="w-80 sm-w-100 margin-5px-bottom"><span class="font-weight-800">Support email:</span> support@creativeitem.com</p>
+                    <div class="social-icon-style-12">
+                        <ul class="extra-small-icon light">
+                            <li><a class="facebook" href="https://www.facebook.com/CreativeitemApps" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="instagram" href="https://www.instagram.com/creativeitem.developers/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="twitter" href="https://twitter.com/creativeitem" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="linkedin" href="https://www.linkedin.com/company/creativeitem" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a class="youtube" href="https://www.youtube.com/c/Creativeitemteam" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- end footer column -->
+                <!-- start footer column -->
+                <div class="col-12 col-lg-3 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
+                    <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Company</span>
+                    <ul>
+                         <!--<li><a href="our-services.html">Products</a></li>-->
+                        <!--<li><a href="our-services.html">About us</a></li>-->
+                        <li><a href="https://www.creativeitem.com/blog">Blog</a></li>
+                        <li><a href="docs">Documentation</a></li>
+                        <li><a href="https://support.creativeitem.com">Contact us</a></li>
+                    </ul>
+                </div>
+                <!-- end footer column -->
+                <!-- start footer column -->
+                <div class="col-12 col-lg-3 col-sm-4 order-sm-4 order-lg-0 xs-margin-25px-bottom">
+                    <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Support</span>
+                    <ul>
+                        <li><a href="https://www.creativeitem.com/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="https://www.creativeitem.com/terms-and-condition">Terms of conditions</a></li>
+                        <li><a href="https://www.creativeitem.com/subscription-policy">Subscription Policy</a></li>
+                    </ul>
+                </div>
+                <!-- end footer column -->
+                <!-- start footer column -->
+                <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-2 order-lg-0 md-margin-50px-bottom xs-no-margin-bottom">
+                    <span class="alt-font font-weight-500 d-block text-white margin-30px-bottom xs-margin-25px-bottom">Popular products</span>
+                    <ul>
+                        <li class="media">
+                            <a href="https://www.creativeitem.com/academy" class="w-45px margin-30px-right sm-margin-15px-right xs-margin-30px-right">
+                                <img class="media-img" src="https://www.creativeitem.com/assets/pages/academy/academy-popular-products.png" alt="" data-no-retina="">
+                            </a>
+                            <div class="media-body pt-2 mt-1">
+                                <a href="https://www.creativeitem.com/academy">Academy LMS</a>
+                            </div>
+                        </li>
+                        <li class="media">
+                            <a href="https://www.creativeitem.com/ekattor" class="w-45px margin-30px-right sm-margin-15px-right xs-margin-30px-right">
+                                <img class="media-img" src="https://www.creativeitem.com/assets/pages/ekattor/ekattor-popular-products.png" alt="" data-no-retina="" >
+                            </a>
+                            <div class="media-body pt-2 mt-1">
+                                <a href="https://www.creativeitem.com/ekattor">Ekattor-school-ERP</a>
+                            </div>
+                        </li>
+                        <li class="media">
+                            <a href="https://www.creativeitem.com/mitxen" class="w-45px margin-30px-right sm-margin-15px-right xs-margin-30px-right">
+                                <img class="media-img" src="https://www.creativeitem.com/assets/pages/mitxen/mitxen-popular-products.png" alt="" data-no-retina="">
+                            </a>
+                            <div class="media-body pt-2 mt-1">
+                                <a href="https://www.creativeitem.com/mitxen">Mitxen LMS</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <!-- end footer column -->
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom padding-35px-tb border-top border-color-white-transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 sm-margin-10px-bottom xs-margin-15px-bottom">
+                    <ul class="footer-horizontal-link d-flex flex-column flex-sm-row justify-content-sm-center justify-content-md-start">
+                        <li><a href="https://www.creativeitem.com/privacy-policy">Privacy policy</a></li>
+                        <li><a href="https://www.creativeitem.com/terms-and-condition">Terms of service</a></li>
+                        <li><a href="https://www.creativeitem.com/subscription-policy">Subscription Policy</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 text-left text-sm-center text-md-right last-paragraph-no-margin">
+                    <p>Copyright © 2021 <a href="https://www.creativeitem.com/" target="_blank" class="text-decoration-line-bottom text-white">Creativeitem</a> All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- end footer -->
+
+<!-- end footer -->
+<!-- start scroll to top -->
+<a class="scroll-top-arrow" href="javascript:void(0);"><i class="feather icon-feather-arrow-up"></i></a>
+<!-- end scroll to top -->
+<!-- javascript -->
+<script type="text/javascript" src="https://www.creativeitem.com/assets/frontend/js/theme-vendors.min.js"></script>
+<script src="https://www.creativeitem.com/assets/frontend/js/toastr.min.js"></script>
+<script src="https://www.creativeitem.com/assets/frontend/js/file-upload-preview.js"></script>
+<script type="text/javascript" src="https://www.creativeitem.com/assets/frontend/js/main.js"></script>
+<script type="text/javascript" src="https://www.creativeitem.com/assets/frontend/js/custom.js"></script>
+
+<!-- SHOW TOASTR NOTIFICATION -->
+
+
+
+</body>
+
+</html>";}

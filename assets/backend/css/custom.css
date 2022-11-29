@@ -1,0 +1,27 @@
+.published {
+	border-top: 6px solid #66bb6a;
+}
+
+.unpublished {
+	border-top: 6px solid #fbc02d;
+}
+
+.published-blog {
+	border-left: 6px solid #a5d6a7;
+}
+
+.unpublished-blog {
+	border-left: 6px solid #ef9a9a;
+}
+
+.text-color {
+	color: #606a72;
+}
+
+.modal-title {
+	text-transform: capitalize;
+}
+
+.product-list-modal-table td {
+	border-bottom: 1px solid #e3eaef;
+}

@@ -1,0 +1,22 @@
+# MacOs garbage
+.DS_Store
+
+# Codeigniter files
+application/config/database.php
+
+# Composer files
+composer.lock
+/vendor/
+
+# IDE Files
+/nbproject/
+.idea/*
+
+# Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/

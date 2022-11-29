@@ -1,0 +1,160 @@
+.sticky-buy-area {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+	transition: all 0.2s;
+	z-index: 99;
+	height: auto !important;
+	padding: 20px 10px;
+}
+
+.app_btn_sm_custom {
+	padding: 10px 25px;
+}
+
+/* churi kora css */
+.custom-radios div {
+	display: inline-block;
+}
+.custom-radios input[type="radio"] {
+	display: none;
+}
+.custom-radios input[type="radio"] + label {
+	color: #333;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+}
+.custom-radios input[type="radio"] + label span {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin: -1px 4px 0 0;
+	vertical-align: middle;
+	cursor: pointer;
+	border-radius: 50%;
+	border: 2px solid #ffffff;
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	line-height: 44px;
+	position: unset;
+}
+.custom-radios input[type="radio"] + label span img {
+	opacity: 0;
+	transition: all 0.3s ease;
+}
+.custom-radios input[type="radio"]#color-1 + label span {
+	background-color: #2ecc71;
+}
+.custom-radios input[type="radio"]#color-2 + label span {
+	background-color: #4069eb;
+}
+.custom-radios input[type="radio"]#color-3 + label span {
+	background-color: #f1c40f;
+}
+.custom-radios input[type="radio"]#color-4 + label span {
+	background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]:checked + label span img {
+	opacity: 1;
+	height: 24px;
+}
+
+.custom-radios label {
+	position: relative;
+	line-height: 18px;
+	cursor: pointer;
+	font-size: 13px;
+}
+.custom-radios label .package-name {
+	position: absolute;
+	width: 100%;
+}
+.custom-radios label .price {
+	font-weight: 700;
+	font-size: 18px;
+	display: block;
+	margin-left: 45px;
+	margin-top: -17px;
+}
+
+.price_tab .nav-item .nav-link-blue.active {
+	background-color: #4069eb;
+}
+
+.font-weight-500 {
+	font-weight: 500;
+}
+
+/* image as radion button starts */
+.radio-bg-image {
+	opacity: 0.8;
+	width: 100%;
+	height: 80px;
+	background-position: center center;
+	background-color: #fff;
+	display: inline-block;
+	margin: 10px;
+}
+.radio-bg-image:hover {
+	opacity: 1;
+	box-shadow: 0 0px 1px rgb(0 0 0 / 25%), 0 4px 10px rgb(0 0 0 / 22%) !important;
+	transform: translateY(-5px);
+}
+
+.radio-img > input {
+	display: none;
+}
+.radio-img {
+	width: 100%;
+	text-align: center;
+}
+
+.radio-img > .radio-bg-image {
+	cursor: pointer;
+	border: 2px solid #fafafa;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	box-shadow: 0 0px 0px rgb(0 0 0 / 12%), 0 1px 3px rgb(0 0 0 / 24%);
+	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.radio-img > input:checked + .radio-bg-image {
+	border-color: #66bb6a;
+}
+/* image as radion button ends */
+
+.custom-top-separator {
+	border-top: 1px solid #f1f1f1;
+}
+.custom-bottom-separator {
+	border-bottom: 1px solid #f1f1f1;
+}
+
+.margin-bottom-30 {
+	margin-bottom: 30px !important;
+}
+.border-top-none {
+	border-top: none !important;
+}
+.payment-gateways {
+	height: 25px;
+}
+
+.popular-badge {
+	position: absolute;
+	padding: 0 4px;
+	font-size: 10px;
+	line-height: 15px;
+	text-transform: uppercase;
+	left: 105px;
+	border-radius: 50px;
+	background-color: #385bce;
+	color: #fff;
+	font-weight: 500;
+}
